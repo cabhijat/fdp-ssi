@@ -1,0 +1,12 @@
+.idea
+*.ipr
+*.iws
+*.iml
+*.project
+target
+*~
+*.bak
+.settings
+.classpath
+dependency-reduced-pom.xml
+.gitignore
